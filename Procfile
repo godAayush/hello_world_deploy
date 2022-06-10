@@ -1,1 +1,1 @@
-web: gunicorn simplecode: app
+web: gunicorn simplecode:app
